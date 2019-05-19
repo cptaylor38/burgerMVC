@@ -79,7 +79,8 @@ ul
 
 body
 {
-    background-color: tan;
+    background: tan;
+    
 }
 
 .opacityConatiner
@@ -88,3 +89,28 @@ body
     height: 100px;
     width: 100%;
 }
+
+h2
+{
+    font-family: monospace;
+}
+
+label
+{
+    font-family: monospace;
+    font-size: 18px;
+}
+
+button
+{
+    font-family: monospace;
+    font-size: 16px;
+    background: orange;
+    outline: none;
+}
+
+button:hover
+{
+    background: rgb(95, 179, 74);
+}
+
