@@ -1,0 +1,27 @@
+body
+{
+    background: green;
+}
+
+.container-fluid
+{
+    display: flex;
+    justify-content: space-evenly;
+    flex-flow: row wrap;
+}
+
+.row
+{
+    flex: 1;
+    min-width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-flow: row wrap;
+}
+
+.create-form
+{
+    padding: 40px;
+    text-align: center;
+}

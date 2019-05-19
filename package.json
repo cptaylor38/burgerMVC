@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/cptaylor38/burgerMVC/issues"
   },
-  "homepage": "https://github.com/cptaylor38/burgerMVC#readme"
+  "homepage": "https://github.com/cptaylor38/burgerMVC#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.19.0",
+    "sequelize": "^5.8.6"
+  }
 }
