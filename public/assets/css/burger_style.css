@@ -88,6 +88,8 @@ body
     background: url('http://www.technocrazed.com/wp-content/uploads/2015/12/Brick-wallaper-For-Background-19.jpg');
     height: 100px;
     width: 100%;
+    position: fixed;
+    bottom: 0;
 }
 
 h2
